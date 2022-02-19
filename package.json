@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/codedadmin/git-extra-session#readme",
   "dependencies": {
-    "react-router-dom": "^6.2.1",
-    "mobx": "^6.4.1"
+    "mobx": "^6.4.1",
+    "react-router-dom": "^5.3.0"
   }
 }
