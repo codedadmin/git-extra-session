@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/codedadmin/git-extra-session/issues"
   },
-  "homepage": "https://github.com/codedadmin/git-extra-session#readme"
+  "homepage": "https://github.com/codedadmin/git-extra-session#readme",
+  "dependencies": {
+    "react-router-dom": "^6.2.1"
+  }
 }
